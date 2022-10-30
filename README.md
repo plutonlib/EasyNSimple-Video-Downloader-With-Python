@@ -1,6 +1,6 @@
 # Python ile Kolay ve Basit Video indirici
-## 8 satırlık kod ile YouTube videolarını yüksek çözünürlükte indir.
-## Rahat, reklamsız, dertsiz, sıkıntısız ve boş bekleme süresiz indirme yapabileceğiniz hazır araç.
+### 8 satırlık kod ile YouTube videolarını yüksek çözünürlükte indir.
+### Rahat, reklamsız, dertsiz, sıkıntısız ve boş bekleme süresiz indirme yapabileceğiniz hazır araç.
 
 # Kurulum : 
 
