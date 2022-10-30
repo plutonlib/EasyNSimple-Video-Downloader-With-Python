@@ -5,9 +5,9 @@
 # Kurulum : 
 
 ```
-// you should already have Python and pytube
+// Python diline ve pip aracına sahip olmanız gerekiyor.
 
-// downloading pytube.
+// Pip indirmek için CMD üzerine bunu girin:
 
 pip install pytube
 ```
