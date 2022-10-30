@@ -1,3 +1,3 @@
 @echo off
-"C:\Users\moren\AppData\Local\Microsoft\WindowsApps\python.exe" "C:\Users\moren\Desktop\video indirme\indirme.py"
+"python.exe'nin kurulu olduğu klasörü buraya yazın ve sonuna \python.exe koyun." "Kullandığımız indirici.py dosyasının olduğu klasörü buraya yazın ve sonuna \indirici.py yazın."
 pause
