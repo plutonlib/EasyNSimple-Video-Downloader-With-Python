@@ -15,5 +15,7 @@ pip install pytube
 # Kullanım :
 
 ```
-Bat dosyasını açtıktan sonra yapacağınız tek işlem bulduğunuz videonun bağlantı adresini yapıştırmak ve beklemek.
+Bat dosyasını açtıktan sonra yapacağınız tek işlem bulduğunuz 
+videonun bağlantı adresini yapıştırmak ve beklemek. .bat dosyasını
+editlemeyi unutmayın. Yoksa çalışmaz!
 ```
